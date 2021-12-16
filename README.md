@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 <!--
+[![Xtotdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtotdam&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtotdam&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!--
 **xtotdam/xtotdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
