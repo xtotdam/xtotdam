@@ -6,6 +6,10 @@
 -->
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=xtotdam&theme=flat&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<!--
 **xtotdam/xtotdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
